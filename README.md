@@ -1,9 +1,10 @@
-### Hi there I'm Zoha Fatima👋
+### Hi there👋
+###  I'm Zoha Fatima
 
 - 🔭 I’m currently working on Blockchain Development
-- 🌱 I’m currently learning Blockchan
-- 🤔 I’m looking for help with Blockchan
-- 💬 Ask me about Programming and Blockchan
+- 🌱 I’m currently learning Blockchain
+- 🤔 I’m looking for help with Blockchain
+- 💬 Ask me about Programming and Blockchain
 - 📫 How to reach me: https://www.linkedin.com/in/zoha-fatima-dev/
 
 ## Zoha Fatima's Github Stats
