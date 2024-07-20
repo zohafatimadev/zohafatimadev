@@ -1,10 +1,10 @@
 ### Hi there👋
 ###  I'm Zoha Fatima
 
-- 🔭 I’m currently working on Blockchain Development
-- 🌱 I’m currently learning Blockchain
-- 🤔 I’m looking for help with Blockchain
-- 💬 Ask me about Programming and Blockchain
+- 🔭 I’m currently working on Data Analysis
+- 🌱 I’m currently learning Data Analysis
+- 🤔 I’m looking for help with Data Analyst
+- 💬 Ask me about Programming and  Data Analysis
 - 📫 How to reach me: https://www.linkedin.com/in/zoha-fatima-dev/
 
 ## Zoha Fatima's Github Stats
